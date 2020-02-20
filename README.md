@@ -13,5 +13,5 @@ This is an simple game. I just studied it at CoderSchools.
 
 Let's build a Rock, Paper, Scissors game app with React Native and expo SDK.
 
-![](appAvatarappAvatar.png)
+![](appAvatar.png)
 
